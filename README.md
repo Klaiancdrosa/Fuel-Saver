@@ -36,6 +36,6 @@ https://github.com/Klaiancdrosa
 ## Comentário:
 
  Esse foi o meu primeiro projeto utilizando o Figma como Design principal e
- o Android Studio como IDE, machucou um pouco o meu PC com ele se Reiniciando
- do nada no meio do Projeto :laughing:
+ o Android Studio como IDE, machucou um pouco o meu PC com ele se *Reiniciando*
+ várias vezes do nada no meio do Projeto :laughing:
 :satisfied:.
