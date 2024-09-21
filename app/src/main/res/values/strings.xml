@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- component strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="fuel_saver_string">Fuel Saver</string>
+	<string name="button_ek1_string">Calcular</string>
+	<string name="label_string">Litros Necessrios:</string>
+	<string name="label_ek1_string">Custo da Viagem:</string>
+</resources>
