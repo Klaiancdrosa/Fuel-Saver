@@ -51,7 +51,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 **Tela Principal**
 Na tela principal, o usuário insere seu o Nome do Veículo, Número da Placa, Distância (Km), Km/L que o carro gasta e o Valor do Combustível Atual.
 
-![Saver 4](https://github.com/user-attachments/assets/d77b556c-186e-4f9c-96a0-1145532f6337)
+![image](https://github.com/user-attachments/assets/c7dbb2e5-9135-4cff-a10c-e563677a7543)
 
 ## Desenvolvedores
 **Klaian Conceição da Rosa** - Desenvolvedor - [GitHub](https://github.com/Klaiancdrosa)
