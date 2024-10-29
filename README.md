@@ -1,41 +1,61 @@
-# Projeto Fuel Saver
--------------------------------------------------
-Desenvolvido para ajudar no cálculo de gasto de gasolina com base na distância e no preço atual.
+# **Projeto Fuel Saver**
+&gt; Desenvolvido para ajudar no cálculo de gasto de gasolina e litros necessários com base na distância, km/l e no preço atual.
 
-![Saver 1](https://github.com/user-attachments/assets/5b1416cb-6d9f-4035-b97f-364a2f4de49c)
+## Descrição
+O **Fuel Saver** permite ao usuário calcular o gasto de gasolina com base na distãncia, km/l e no preço atual.
 
-![Saver 2](https://github.com/user-attachments/assets/6a69bd57-3456-44eb-aff4-a5d60c93d023)
+## Funcionalidades
+- [x] Entrada de dados (distância, kml e preço atual)
+- [x] Cálculo do Gasto (litros necessários e custo da viagem)
+- [x] Interface simples e intuitiva
 
-![Saver 3](https://github.com/user-attachments/assets/02f42aec-8016-45f6-9ccd-49122ce31111)
+## Tecnologias Utilizadas
+- [x] **Android Studio** (Koala | 2024.1.2)
+- [x] **Java** para desenvolvimento
+- [x] **RelativeLayout** para interface responsiva
+- [x] **TextView** e **EditText** para entrada e exibição de dados
+      
+## Como Rodar o Projeto
+Siga os passos abaixo para rodar o projeto localmente:
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/Klaiancdrosa/Fuel-Saver.git
+```
+2. Abra o projeto no Android Studio.
+3. Compile e execute o projeto em um emulador ou dispositivo físico.
+   
+## Estrutura do Projeto
+```bash
+├── app
+│ ├── src
+│ │ ├── main
+│ │ │ ├── java
+| | | | |── br.ulbra.fuelsaver
+│ │ │ │ | ├── MainActivity.java # Atividade principal com cálculo do gasto e litros necessários.
+│ │ │ ├── res
+| | | | ├── drawable # imagens e icones utilizados na tela principal
+│ │ │ │ ├── layout
+│ │ │ │ │ ├── activity_main.xml # Layout da tela principal
+│ │ │ │ └── values
+│ │ │ │ ├── strings.xml # Strings usadas no app
+│ │ │ │ ├── colors.xml # Cores definidas no projeto
+│ └── build.gradle # Configuração do Gradle
+└── README.md # Este arquivo
+
+## Design e Prototipage
+A interface do app foi criada usando **RelativeLayout**;
+O design é minimalista e fácil de usar, com foco na simplicidade.
+
+## Telas do Aplicativo 1
+**Tela Principal**
+Na tela principal, o usuário insere seu o Nome do Veículo, Número da Placa, Distância (Km), Km/L que o carro gasta e o Valor do Combustível Atual.
 
 ![Saver 4](https://github.com/user-attachments/assets/d77b556c-186e-4f9c-96a0-1145532f6337)
 
----------------------------------------------------
-## O Que foi utilizado:
+## Desenvolvedores
+**Klaian Conceição da Rosa** - Desenvolvedor - [GitHub](https://github.com/Klaiancdrosa)
 
-Frontend: Figma
-
-Backend: Java
-
----------------------------------------------------
-
-## IDE:
-
-Android Studio
-
-## Ferramenta UI/UX:
-
-Figma
-
----------------------------------------------------
-## Autor:
-
-https://github.com/Klaiancdrosa
-
----------------------------------------------------
-## Comentário:
-
- Esse foi o meu primeiro projeto utilizando o Figma como Design principal e
- o Android Studio como IDE, machucou um pouco o meu PC com ele se *Reiniciando*
- várias vezes do nada no meio do Projeto :laughing:
-:satisfied:.
+## Licenças
+Este projeto está licenciado sob os termos da licença MIT. Para mais detalhes, veja o arquivo
+[LICENSE](LICENSE).
