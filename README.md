@@ -47,7 +47,7 @@ git clone https://github.com/Klaiancdrosa/Fuel-Saver.git
 A interface do app foi criada usando **RelativeLayout**;
 O design é minimalista e fácil de usar, com foco na simplicidade.
 
-## Telas do Aplicativo 1
+## Telas do Fuel Saver
 **Tela Principal**
 Na tela principal, o usuário insere seu o Nome do Veículo, Número da Placa, Distância (Km), Km/L que o carro gasta e o Valor do Combustível Atual.
 
