@@ -42,6 +42,7 @@ git clone https://github.com/Klaiancdrosa/Fuel-Saver.git
 │ │ │ │ ├── colors.xml # Cores definidas no projeto
 │ └── build.gradle # Configuração do Gradle
 └── README.md # Este arquivo
+```
 
 ## Design e Prototipage
 A interface do app foi criada usando **RelativeLayout**;
@@ -51,7 +52,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 **Tela Principal**
 Na tela principal, o usuário insere seu o Nome do Veículo, Número da Placa, Distância (Km), Km/L que o carro gasta e o Valor do Combustível Atual.
 
-![image](https://github.com/user-attachments/assets/c7dbb2e5-9135-4cff-a10c-e563677a7543)
+![Saver 3](https://github.com/user-attachments/assets/02f42aec-8016-45f6-9ccd-49122ce31111)
 
 ## Desenvolvedores
 **Klaian Conceição da Rosa** - Desenvolvedor - [GitHub](https://github.com/Klaiancdrosa)
